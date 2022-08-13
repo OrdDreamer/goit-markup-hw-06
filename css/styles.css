@@ -932,7 +932,7 @@ body {
 .modal-form-check-policy:checked + .modal-form-check-policy-description::before {
   background-color: var(--accent-color);
   border-color: var(--accent-color);
-  background-image: url(/images/other-svg/icon-check.svg);
+  background-image: url(../images/other-svg/icon-check.svg);
   background-position: center;
   background-size: 16px 15px;
 }
